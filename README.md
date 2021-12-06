@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hello !  👋
+
+## Thank you for checking out my GitHub Profile :smiley:
+
+### I am an undergraduate student, major as Computer Science
 
 <!--
 **mdshahabaz/mdshahabaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
