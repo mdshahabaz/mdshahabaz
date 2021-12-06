@@ -1,11 +1,6 @@
-## Hello !  👋
-## Thank you for checking out my GitHub Profile
-## This is Mohammed Shahabaz, 
+## Hello ! 👋 I am Mohammed Shahabaz
 --------------------------------------
-
-
-### Connect with me on 👇
- :link:www.linkedin.com/in/mohammed-shahabaz
+[linkedin.com/in/mohammed-shahabaz]()
 
 
 <!--
