@@ -1,6 +1,8 @@
 ## Hello ! 👋 I am Mohammed Shahabaz
+### Thank you for checking out my profile 😃
 --------------------------------------
-[linkedin.com/in/mohammed-shahabaz]()
+### You can find me on :
+[linkedin.com/in/mohammed-shahabaz](), gmail , telegram
 
 
 <!--
